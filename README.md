@@ -6,7 +6,7 @@
  To visualize the volume, please use "visualizeVolume.py"
 
 
- example data in ELLIPSOID_2 folder
+ example data in "ELLIPSOID_2" folder
 
  
- result.jpeg is a result image of visualizeVolume.py
+ "result.jpeg" is a result image of visualizeVolume.py
