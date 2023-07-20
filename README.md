@@ -10,3 +10,6 @@
 
  
  "result.jpeg" is a result image of visualizeVolume.py
+
+
+This is just a partial part of the entire project.
